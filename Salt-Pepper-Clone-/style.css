@@ -1,0 +1,238 @@
+.logo-img{
+    width: 165px;
+}
+
+.text-white{
+    color: white;
+}
+@media(max-width :700px){
+    .nav-1{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+        color: #ffffff;
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+    --grey:#ffffff0f;
+    --green:#28A745;
+}  
+ 
+
+@media (min-width :700px){
+    .hamburger{
+        display: none;
+    }
+}
+@media (min-width :700px){
+    .carousel{
+        display: flex;
+        position: static;
+    }
+}
+
+    
+#franchise{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 20px;
+    cursor: pointer;
+    color: #ffffff;
+}
+#order-online{
+    background-color: red;
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+#button-red{
+    color:red;
+}
+#btn-icon{
+    padding: 5px 7px; 
+}
+.bg-light{
+    background-color: #ffffff;
+}
+.img{
+    width: 100%;
+    
+}
+.hamburger{
+    color: white;
+}
+#children-images{
+    gap: 30px;
+}
+
+#navbar-items{
+    gap: 30px;
+}
+#navbar{
+    padding: 0px 10px;
+}
+
+#main-logo{
+    width: 165px;
+}
+.nav-link{
+    text-decoration: none;
+}
+#franchise{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#order-online{
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+#get-directions{
+    background-color: transparent;
+    border: 1px solid #808080;
+    padding: 15px 35px;
+    cursor: pointer;
+    font-family:"poppins";
+}
+#get-directions-village{
+    background-color: #28A745;
+    padding: 15px 35px;
+    cursor: pointer;
+    font-family:"poppins";
+}
+.red{
+    color: var(--red);
+}
+#branch-red{
+    color: var(--red);
+}
+#button-red{
+    color: var(--red);
+}
+#button-green{
+    color: var(--green);
+}
+
+#btn-icon{
+    padding: 5px 7px; 
+}
+
+#children-images{
+    gap: 30px;
+}
+.branch-container{
+    width: 1360px;
+}
+#islamabad-branch{
+    margin: 30px 40px;
+    font-weight: lighter;
+}
+.image{
+    width: 500px;
+    align-items: center;
+}
+#carousal-img{
+    width: 1360px;
+}
+.word-spacing{
+    letter-spacing: 5px;
+}
+#restauarnt-franchise{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.text-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#express-franchise{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#text-logo{
+    font-size: 50px ;
+    font-family: "butler";  
+}
+#text-logo-social{
+    font-size: 30px ;
+    font-family: "butler";  
+}
+.express-images{
+    gap: 30px;
+    
+}
+#express-1{
+    width: 350px;
+}
+.snp-express{
+    font-size: 24px;
+    margin: 0px 0px 18px;
+}
+.express-location{
+    font-size: 15px;
+    margin: 0px 0px 12px;
+    font-family: "apercu";
+}
+#village-franchise{
+    width: 659px;
+}
+.social-img{
+    width: 265px;
+}
+.end-logo{
+    width: 140px;
+    padding-bottom: 24px;
+}
+.heading-width{
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: 24px;
+}
+.snp-img{
+   width: 540px;
+}
+.footer-width{
+    width: 1349px;
+}
+.text-grey{
+    color: #ffffffb3;
+}
+.transparent{
+    background-color: transparent;
+}
+.warp-stretch{
+    align-content: stretch;
+    display: flex;
+}
+.bg-branch{
+   background-color:  #ffffff0f;
+}
+.express-comingsoon{
+    height: 230px;
+    border-radius: 4px;
+    text-align: center;
+    padding: 25px 24px;
+    margin: auto;
+    margin-bottom: 32px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+.coming-soon-box{
+    width: 230px;
+} 
+.d-flex-warp{
+    display: flex;
+    flex-wrap: wrap;
+}
